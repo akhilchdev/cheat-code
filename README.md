@@ -1,1 +1,1 @@
-# cheat-code
+# cheat
